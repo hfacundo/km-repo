@@ -5,6 +5,7 @@ Tags: Tag1, tag2
 
 Brief description of the technology.
 Key features and capabilities.
+
 ##2. Key Concepts:
 Fundamental principles or components.
 Terminology and vocabulary associated with the technology.
