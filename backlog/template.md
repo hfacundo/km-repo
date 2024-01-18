@@ -21,7 +21,7 @@ Components and their interactions.
 Common scenarios or problems the technology addresses.
 Real-world applications.
 
-## 5. Clients and Industries:
+## 5. Industries:
 
 List of notable clients or companies using the technology.
 Industries where the technology is prevalent.
